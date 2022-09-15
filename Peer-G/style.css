@@ -1,0 +1,11 @@
+p{
+background-color: grey;
+color: black;
+border: solid;
+width: 200px;
+}
+
+h2 {
+    float: left;
+    border: solid;
+}
